@@ -1,0 +1,90 @@
+html {
+    font-family: arial, sans-serif;
+}
+
+.top-nav {
+    overflow: hidden;
+    display: block;
+    width: 100%;
+}
+
+.top-nav ul {
+    list-style-type: none;
+    margin: -5px;
+    padding: 15px;
+    background-color: ;
+    font-size: 13px;
+    height: 15px;
+    opacity: ;
+}
+
+.top-nav li {
+    float: left;
+}
+
+.top-nav a {
+    display: block;
+    padding: 8px;
+    background-color: ;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-decoration: none;
+    opacity: .75;
+}
+
+.top-nav a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 0, 0);
+}
+
+.top-nav-right {
+    float: right;
+}
+
+.app-grid {
+    height: 28px;
+    padding-left: 0px;
+    padding-right: 7px;
+    margin: -10px 0px;
+    opacity: .75
+}
+
+.app-grid:hover {
+    opacity: 1;
+}
+
+#sign-in {
+    text-decoration-color: white;
+    color: white;
+    font-weight: bold;
+    background-color: #4c8bf5;
+    border-color: rgb(66, 133, 244);
+    border-width: 1px;
+    border-radius: 2px;
+    opacity: 1;
+}
+
+#sign-in:hover {
+    text-decoration: none;
+}
+
+
+/* #sign-in button {
+    text-decoration-color: white;
+    border: 1px solid #4285f4;
+    outline: none;
+    background-image: linear-gradient(top, #4387fd, #4683ea);
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 28px;
+    padding-left: 12px;
+    padding-right: 12px;
+      rgb(66, 133, 244);
+} /*
+
+/* display:inline-block;
+text-decoration-line: none;
+text-decoration-style: solid;
+text-decoration-color: rgb(0, 0, 0);
+padding-left:15px;
+width:33.9844px; */
